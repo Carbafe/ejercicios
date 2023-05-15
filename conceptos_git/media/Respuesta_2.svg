@@ -37,8 +37,8 @@
    id="namedview7302"
    showgrid="false"
    inkscape:zoom="1.3783532"
-   inkscape:cx="536.14706"
-   inkscape:cy="322.84904"
+   inkscape:cx="536.14705"
+   inkscape:cy="265.53426"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -1403,7 +1403,24 @@
    stroke-linejoin="round"
    d="m 9894,9883 h 6280"
    id="path7155-9" />
-       </g><g
+       </g><text
+   class="TextShape"
+   id="text7141-7"
+   style="opacity:0.98"
+   x="-1050.2853"
+   y="-5791.4541"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7139-57"><tspan
+       class="TextPosition"
+       x="12484.714"
+       y="3863.5459"
+       id="tspan7137-93"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7135-0">Merge branch &quot;idea&quot;</tspan></tspan></tspan></text><g
    transform="translate(-0.5,-5728.6231)"
    style="opacity:0.98"
    id="id5-2">
